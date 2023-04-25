@@ -1,0 +1,17 @@
+Radiation test dashboard
+
+Have: python blinky module as example
+
+Top left:
+Find: Test script to run
+Have dropdown list of things able to plot (something runs upon import)
+Autosave/download data to my computer (Slider with switch)
+Button: run Test script
+Button: Power supplies
+
+Top right: Graph variables/terminal output
+Input for  Fluence, upsets
+
+Bottom:
+Plot:
+Calculate: Cross section, upset rate
